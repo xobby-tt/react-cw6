@@ -8,5 +8,18 @@
   box-shadow: rgba(255,255,255,.3) 0 0 6px;
 }
 
-.main-content h1 {
+
+.plus-button {
+  margin-top: 40px;
+  background-image: url("../img/plus_icon1.png");
+  width: 48px;
+  height: 48px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.plus-button:hover {
+  background-image: url("../img/plus_hover_icon.png");
+  width: 48px;
+  height: 48px;
 }
