@@ -1,0 +1,12 @@
+.main-content {
+  color: #5F5F5F;
+  margin: 50px 0;
+  padding: 40px 0;
+  border: 2px solid #E0E0E0;
+  border-radius: 6px;
+  background-color: #fff;
+  box-shadow: rgba(255,255,255,.3) 0 0 6px;
+}
+
+.main-content h1 {
+}
